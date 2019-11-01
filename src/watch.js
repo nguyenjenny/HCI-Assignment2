@@ -107,21 +107,22 @@ class Watch extends React.Component {
 		// 	setState({});
 		this.state = {
 			inputPhrase: "",
-			inputChar: ""
+			inputChar: "",
+      keyPressedTimes: 0
 		};
 
 		//add the target phrases here or load them from external files
+    this.sessionIndex = 0;
 		this.targetPhrase =  "target phrase one";
 
-
 		// For Debug, uncomment only if you want to measure exact width and height in pixels.
-		// Following codes won't be affected on any of your code. 
-		/*
+		// Following codes won't be affected on any of your code.
+
 		var size42 = deviceIndependenceSize(112,42);
 		console.log("AppleWatch 42mm => "+size42.width +"/"+size42.height);
 		var size38 = deviceIndependenceSize(112,38);
 		console.log("AppleWatch 38mm => "+size38.width +"/"+size38.height);
-		*/
+
 	}
 
 	/**
@@ -134,6 +135,7 @@ class Watch extends React.Component {
 	onKeyCharReceived = (c) => {
 		this.setState({inputChar : c});
 		this.state.inputPhrase += c;
+    this.state.keyPressedTimes +=1;
 	};
 
 
@@ -142,10 +144,25 @@ class Watch extends React.Component {
 	//TODO: you need to log other measurements, such as the time when a user inputs each char, user id, etc.
 	saveData = () => {
 		let log_file = JSON.stringify({
+      watchType: this.props.type,
 			targetPhrase: this.targetPhrase,
-			inputPhrase: this.state.inputPhrase
+			inputPhrase: this.state.inputPhrase,
+      inputChar: this.state.inputChar,
+      keyPressedTimes: this.state.keyPressedTimes
 		})
-		download(log_file, "results.txt", "text/plain");
+
+    var fileName = "results_" + this.sessionIndex + ".txt";
+    download(log_file, fileName, "text/plain"); // here I using sessionIndex to set the file name, as this is a one time parameters, it can be a temp local variables here.
+
+    //After download, Reset variables here
+    this.state = {
+        inputPhrase: "",
+        inputChar: "", // above are something already done
+        keyPressedTimes: 0 // new variable within the this.state
+    };
+
+    this.sessionIndex += 1;// update the sessionIndex here
+    this.targetPhrase =  "target phrase two";
 	}
 
 
