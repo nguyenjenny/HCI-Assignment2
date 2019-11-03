@@ -1,9 +1,9 @@
 /***************************************************
 * CSC428/2514 - St. George, Fall 2019
-* 
+*
 * File: textarea.js
 * Summary: Textfield which displays input characters by users.
-* 
+*
 * The code is commented, and the comments provide information
 * about what each js file is doing.
 *
@@ -28,23 +28,23 @@ class TextArea extends React.Component{
         super(props);
         // React State
         // this component will display text, once this.state.text value has changed,
-        // TextArea component will re-render. *** text value has to be changed by 
+        // TextArea component will re-render. *** text value has to be changed by
         // 'setState({text: VALUE})'
         this.state = {
-            text: ""
+            text: "",
         }
     }
 
     /**
      * Function in React Component lifecycle.
-     * When the parent component pass different properties, 
+     * When the parent component pass different properties,
      * This function will be called.
      */
     componentWillReceiveProps= (nextProps) => {
         var c = nextProps.inputChar;
         var displayText = this.state.text;
 
-        // if the input character is 'delete', 
+        // if the input character is 'delete',
         //  delete the last sentence from the displayed text.
         if(nextProps.inputChar === "delete") {
             displayText = displayText.substring(0,displayText.length-1);
@@ -55,18 +55,23 @@ class TextArea extends React.Component{
         }
     }
 
+		clearText = () => {
+			this.setState({text: ""})
+		}
+
     /**
      * Render function.
      * This one returns <div></div> with classname "type".
      * You can do inline styling by pass css values to 'style' property.
      * You can do either
      *  style={YOUR STYLE} or
-     *  style={{CSS_PROP: YOUR_VALUE, CSS_PROP: YOURVALUE,..}} 
+     *  style={{CSS_PROP: YOUR_VALUE, CSS_PROP: YOURVALUE,..}}
      */
     render(){
         return(
             <div className="typed" style = {this.props.style}>
                 {this.state.text}
+								<button onClick = {() => this.clearText()}> Clear </button>
             </div>
         )
     }

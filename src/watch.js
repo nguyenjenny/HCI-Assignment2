@@ -108,7 +108,9 @@ class Watch extends React.Component {
 		this.state = {
 			inputPhrase: "",
 			inputChar: "",
-      keyPressedTimes: 0
+      keyPressedTimes: 0,
+      targetPhrase: "target phrase one"
+
 		};
 
 		//add the target phrases here or load them from external files
@@ -123,6 +125,7 @@ class Watch extends React.Component {
 		var size38 = deviceIndependenceSize(112,38);
 		console.log("AppleWatch 38mm => "+size38.width +"/"+size38.height);
 
+    this.textareaElement = React.createRef();
 	}
 
 	/**
@@ -143,6 +146,7 @@ class Watch extends React.Component {
 	//this sample code only logs the target phrase and the user's input phrases
 	//TODO: you need to log other measurements, such as the time when a user inputs each char, user id, etc.
 	saveData = () => {
+
 		let log_file = JSON.stringify({
       watchType: this.props.type,
 			targetPhrase: this.targetPhrase,
@@ -155,14 +159,18 @@ class Watch extends React.Component {
     download(log_file, fileName, "text/plain"); // here I using sessionIndex to set the file name, as this is a one time parameters, it can be a temp local variables here.
 
     //After download, Reset variables here
-    this.state = {
-        inputPhrase: "",
-        inputChar: "", // above are something already done
-        keyPressedTimes: 0 // new variable within the this.state
-    };
+    this.setState ((currentState) => {
+        return {
+          inputPhrase: "",
+          inputChar: "", // above are something already done
+          keyPressedTimes: 0, // new variable within the this.state
+          targetPhrase : "target phrase two"
+        }
 
+
+      });
+    this.textareaElement.clearText()
     this.sessionIndex += 1;// update the sessionIndex here
-    this.targetPhrase =  "target phrase two";
 	}
 
 
@@ -177,8 +185,8 @@ class Watch extends React.Component {
 		if(this.type === 'normal'){
 			return(
 				<div className="watch">
-					 <label>{this.targetPhrase}</label>
-					<TextArea inputChar={this.state.inputChar}/>
+					 <label>{this.state.targetPhrase}</label>
+					<TextArea inputChar={this.state.inputChar} ref={this.textareaElement}/>
 					<KeyboardNormal originalScale={this.originalScale} onKeyCharReceived ={this.onKeyCharReceived}/>
 					<button onClick={this.saveData}>SAVE</button>
 				</div>
@@ -190,8 +198,8 @@ class Watch extends React.Component {
 			// call this.saveData function to save user's data
 			return(
 				<div className="watch">
-				  <label>{this.targetPhrase}</label>
-					<TextArea inputChar={this.state.inputChar}/>
+				  <label>{this.state.targetPhrase}</label>
+					<TextArea inputChar={this.state.inputChar} ref={this.textareaElement}/>
 					<KeyboardZoom originalScale={this.originalScale} onKeyCharReceived ={this.onKeyCharReceived}/>
 					<button onClick={this.saveData}>SAVE</button>
 				</div>
