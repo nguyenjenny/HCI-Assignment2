@@ -173,7 +173,7 @@ class Watch extends React.Component {
 
     clearInterval(this.state.timer);
 
-    var fileName = "results_" + this.sessionIndex + ".txt";
+    var fileName = "participant_" +  this.props.id + "_trial_" + (this.state.trialIndex + 1) + ".txt";
     download(log_file, fileName, "text/plain"); // here I using sessionIndex to set the file name, as this is a one time parameters, it can be a temp local variables here.
 
     //After download, Reset variables here
@@ -211,16 +211,17 @@ class Watch extends React.Component {
   render() {
     const { id } = this.props;
     const { trialIndex } = this.state;
-    const { scale, targetPhrase, type } = this.trials[trialIndex];
+	const { scale, targetPhrase, type } = this.trials[trialIndex];
+	console.log(scale)
     // style={{}} is an inline styling with calculated screen size
     if (type) {
       return (
         <div className="watch">
           <label>
-            {targetPhrase} for {id}
+            {targetPhrase}
           </label>
           <div className="typed">{this.state.inputText}</div>
-          {this.type === "normal" ? (
+          {type === "normal" ? (
             <KeyboardNormal
               originalScale={scale}
               onKeyCharReceived={this.onKeyCharReceived}
@@ -232,6 +233,7 @@ class Watch extends React.Component {
             />
           )}
           <button onClick={this.saveData}>SAVE</button>
+		  <p><b>Participant ID: {id}</b></p>
         </div>
       );
     } else {

@@ -25,14 +25,19 @@ class App extends React.Component {
     return [
       {
         type: "normal",
-        scale: 0.15,
-        targetPhrase: "target phrase one"
+        scale: 0.112,
+        targetPhrase: "my watch fell in the water"
       },
       {
         type: "zoom",
-        scale: 2,
-        targetPhrase: "poo"
-      }
+        scale: 0.103,
+        targetPhrase: "breathing is difficult"
+      },
+      {
+        type: "normal",
+        scale: 0.103,
+        targetPhrase: "a problem with the engine"
+      },
     ];
   };
 
