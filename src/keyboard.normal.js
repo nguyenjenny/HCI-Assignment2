@@ -203,20 +203,21 @@ class KeyboardNormal extends React.Component {
 	 */
 	onSwipe = (direction) => {
 		if(direction === "left"){ // Delete character.
-			var key = "delete";
+			var key = "-delete-";
 			this.props.onKeyCharReceived(key);
-		}else if(direction === "up"){ // Change keyboard layout from one to another.
-			// You have two keyboard layouts: Alphabet and Symbols.
-			var imgPath = (this.state.keyboardImg === this.imgs[0])? this.imgs[1] : this.imgs[0];
-			this.setState({
-				keyboardImg:imgPath
-			})
-		} else if(direction === "right"){
-			//do something here if you wish to use the swipt to the right gesture
 		}
-		else if(direction === "down"){
-			//do something here if you wish to use the swipt to the right gesture
-		}
+		// else if(direction === "up"){ // Change keyboard layout from one to another.
+		// 	// You have two keyboard layouts: Alphabet and Symbols.
+		// 	var imgPath = (this.state.keyboardImg === this.imgs[0])? this.imgs[1] : this.imgs[0];
+		// 	this.setState({
+		// 		keyboardImg:imgPath
+		// 	})
+		// } else if(direction === "right"){
+		// 	//do something here if you wish to use the swipt to the right gesture d
+		// }
+		// else if(direction === "down"){
+		// 	//do something here if you wish to use the swipt to the right gesture
+		// }
 	}
 
 	/**
@@ -272,7 +273,7 @@ class KeyboardNormal extends React.Component {
 			if(ev.keyCode === 8){
 				ev.returnValue = false;
 				ev.cancleBubble = true;
-				key = "delete";
+				key = "-delete-";
 			}else if(ev.keyCode === 13){
 				key = "Enter";
 			}

@@ -111,7 +111,8 @@ class Watch extends React.Component {
       inputText: "",
       trialIndex: 0,
       time: 0,
-      timer: null
+	  timer: null,
+	  deleteTimes: 0,
     };
 
     //add the target phrases here or load them from external files
@@ -137,7 +138,6 @@ class Watch extends React.Component {
     const { time } = this.state;
     if (time === 0) {
       const timer = setInterval(() => {
-        console.log("SETTING INTERVAL");
         this.setState(prevState => {
           return { time: prevState.time + 1 };
         });
@@ -146,14 +146,19 @@ class Watch extends React.Component {
     }
 
     this.setState(prevState => {
-      const { inputPhrase, keyPressedTimes, inputText } = prevState;
+      const { inputPhrase, keyPressedTimes, inputText, deleteTimes } = prevState;
       return {
         inputPhrase: inputPhrase + c,
         keyPressedTimes: keyPressedTimes + 1,
         inputText:
-          c === "delete"
+          c === "-delete-"
             ? inputText.substring(0, inputText.length - 1)
-            : inputText + c
+			: inputText + c,
+		deleteTimes:
+			c === "-delete-"
+			? deleteTimes + 1
+			: deleteTimes 
+
       };
     });
   };
@@ -165,9 +170,11 @@ class Watch extends React.Component {
     let log_file = JSON.stringify({
 	  id: this.props.id,	
       trial: this.trials[this.state.trialIndex],
-      inputPhrase: this.state.inputPhrase,
+	  inputPhrase: this.state.inputPhrase,
+	  inputText: this.state.inputText,
       keyPressedTimes: this.state.keyPressedTimes,
-	  time: this.state.time
+	  time: this.state.time,
+	  deleteTimes: this.state.deleteTimes
     });
 
 
@@ -188,7 +195,8 @@ class Watch extends React.Component {
           inputText: "",
           trialIndex: trialIndex + 1,
           timer: null,
-          time: 0
+		  time: 0,
+		  deleteTimes: 0
         };
       });
       this.sessionIndex += 1; // update the sessionIndex here
@@ -212,14 +220,16 @@ class Watch extends React.Component {
     const { id } = this.props;
     const { trialIndex } = this.state;
 	const { scale, targetPhrase, type } = this.trials[trialIndex];
-	console.log(scale)
     // style={{}} is an inline styling with calculated screen size
     if (type) {
       return (
+		<>  
+		<h2> The phrase is</h2>
+		
         <div className="watch">
-          <label>
+		<label>
             {targetPhrase}
-          </label>
+        </label>
           <div className="typed">{this.state.inputText}</div>
           {type === "normal" ? (
             <KeyboardNormal
@@ -235,6 +245,7 @@ class Watch extends React.Component {
           <button onClick={this.saveData}>SAVE</button>
 		  <p><b>Participant ID: {id}</b></p>
         </div>
+		</>
       );
     } else {
       // exception

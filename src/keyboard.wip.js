@@ -175,7 +175,7 @@ class KeyboardZoom extends KeyboardNormal {
 	 */
 	onSwipe = (direction) => {
 		if(direction === "left"){ // Delete character.
-			var key = "delete";
+			var key = "-delete-";
 			this.props.onKeyCharReceived(key);
 		}else if(direction === "up"){ // Change keyboard layout from one to another.
 			// You have two keyboard layout. Alphabet and Symbols.
@@ -423,7 +423,7 @@ class KeyboardZoom extends KeyboardNormal {
 	}
 
 	flashKey = (key) => {
-		if(key === "delete") {
+		if(key === "-delete-") {
 			//this.flash("&#9224;");
 			this.flash("&#x232B");
 		} else if(key === "enter") {

@@ -12,6 +12,7 @@ import React from "react";
 import { Route } from "react-router-dom";
 import Watch from "./components/Watch";
 import MetaTags from "react-meta-tags";
+import { constants } from "http";
 
 class App extends React.Component {
   constructor(props) {
@@ -20,25 +21,44 @@ class App extends React.Component {
       id: ""
     };
   }
+  
+  targetPhrases = () => {
+      const phrases = [
+        "my watch fell in the water",
+        "breathing is difficult",
+        "a problem with the engine",
+      ]
+      return (
+          phrases
+          )
+  }
   randomizeTrials = () => {
-    // TODO: randomize shit here
-    return [
-      {
-        type: "normal",
-        scale: 0.112,
-        targetPhrase: "my watch fell in the water"
-      },
-      {
-        type: "zoom",
-        scale: 0.103,
-        targetPhrase: "breathing is difficult"
-      },
-      {
-        type: "normal",
-        scale: 0.103,
-        targetPhrase: "a problem with the engine"
-      },
-    ];
+    // TODO: randomize stff
+    // 38 mm --> 0.2405
+    const scale38 = 0.2405
+    const scale42 = 0.269
+    const participant1 = [
+        {
+            type: "normal",
+            scale: scale38,
+            targetPhrase: "my watch fell in the water"
+          },
+          {
+            type: "zoom",
+            scale: scale42,
+            targetPhrase: "breathing is difficult"
+          },
+          {
+            type: "normal",
+            scale: scale42,
+            targetPhrase: "a problem with the engine"
+          },
+
+    ]
+
+    return (
+        participant1
+    )    
   };
 
   onSubmit = event => {
