@@ -98,7 +98,8 @@ class Watch extends React.Component {
         updatedTrials[index].scale = props.match.params.scaleVal;
       }
     });
-    this.trials = updatedTrials;
+	this.trials = updatedTrials;
+	this.phrases = this.props.phrases;
 
     // React Component States.
     // inputPhrase: a variable containing all characters typed by users.
@@ -113,10 +114,10 @@ class Watch extends React.Component {
       time: 0,
 	  timer: null,
 	  deleteTimes: 0,
+	  targetPhrase: "",
     };
 
     //add the target phrases here or load them from external files
-    this.sessionIndex = 0;
 
     // For Debug, uncomment only if you want to measure exact width and height in pixels.
     // Following codes won't be affected on any of your code.
@@ -219,16 +220,18 @@ class Watch extends React.Component {
   render() {
     const { id } = this.props;
     const { trialIndex } = this.state;
-	const { scale, targetPhrase, type } = this.trials[trialIndex];
+	const { scale, type } = this.trials[trialIndex];
+	const targetPhrase = this.phrases[trialIndex];
     // style={{}} is an inline styling with calculated screen size
     if (type) {
       return (
 		<>  
-		<h2> The phrase is</h2>
-		
+		<p className="prompt">
+			Type the following phrase:
+		</p>
         <div className="watch">
 		<label>
-            {targetPhrase}
+            <p className='phrase'>{targetPhrase}</p>
         </label>
           <div className="typed">{this.state.inputText}</div>
           {type === "normal" ? (
@@ -244,6 +247,11 @@ class Watch extends React.Component {
           )}
           <button onClick={this.saveData}>SAVE</button>
 		  <p><b>Participant ID: {id}</b></p>
+		  <p>{type}  {scale} {trialIndex +1}</p>
+		  {(trialIndex)%5 == 0 &&
+			  <h4>Take a break before starting</h4>
+		  }
+
         </div>
 		</>
       );

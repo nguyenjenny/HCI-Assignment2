@@ -21,44 +21,110 @@ class App extends React.Component {
       id: ""
     };
   }
-  
-  targetPhrases = () => {
-      const phrases = [
-        "my watch fell in the water",
-        "breathing is difficult",
-        "a problem with the engine",
-      ]
-      return (
-          phrases
-          )
-  }
-  randomizeTrials = () => {
+
+  getPhrases = () => {
+    const phrases = [
+      "a quarter of a century",
+      "buckle up for safety",
+      "call for more details",
+      "communicate through email",
+      "did you have a good time",
+      "do not drink too much",
+      "do not squander your time",
+      "for your information only",
+      "goldilocks and the three bears",
+      "hands on experience with a job",
+      "have a good weekend",
+      "head shoulders knees and toes",
+      "just in time for the party",
+      "mom made her a turtleneck",
+      "no exchange without a bill",
+      "our fax number has changed",
+      "popularity is desired by all",
+      "reading week is just about here",
+      "space is a high priority",
+      "starlight and dewdrop",
+      "take a coffee break",
+      "thank you for your help",
+      "that is very unfortunate",
+      "the assignment is due today",
+      "the back yard of our house",
+      "the early bird gets the worm",
+      "the living is easy",
+      "the music is better than it sounds",
+      "the postal service is very slow",
+      "the store will close at ten",
+      "this is a very good idea",
+      "this is too much to handle",
+      "this watch is too expensive",
+      "video camera with a zoom lens",
+      "we are subjects and must obey",
+      "we went grocery shopping",
+      "what a monkey sees a monkey will do",
+      "what you see is what you get",
+      "you are a wonderful example"
+    ];
+    return phrases.sort(() => Math.random() - 0.5);
+  };
+  randomizeTrials = id => {
     // TODO: randomize stff
     // 38 mm --> 0.2405
-    const scale38 = 0.2405
-    const scale42 = 0.269
-    const participant1 = [
-        {
-            type: "normal",
-            scale: scale38,
-            targetPhrase: "my watch fell in the water"
-          },
-          {
-            type: "zoom",
-            scale: scale42,
-            targetPhrase: "breathing is difficult"
-          },
-          {
-            type: "normal",
-            scale: scale42,
-            targetPhrase: "a problem with the engine"
-          },
+    const scale38 = 0.2405;
+    const scale42 = 0.269;
+    const reps = 3;
 
-    ]
+    const a = {
+      type: "normal",
+      scale: scale38
+    };
 
-    return (
-        participant1
-    )    
+    const b = {
+      type: "normal",
+      scale: scale42
+    };
+
+    const c = {
+      type: "zoom",
+      scale: scale38
+    };
+
+    const d = {
+      type: "zoom",
+      scale: scale42
+    };
+
+    const participant1 = Array(reps)
+      .fill(a)
+      .concat(Array(reps).fill(b))
+      .concat(Array(reps).fill(c))
+      .concat(Array(reps).fill(d));
+    const participant2 = Array(reps)
+      .fill(b)
+      .concat(Array(reps).fill(d))
+      .concat(Array(reps).fill(a))
+      .concat(Array(reps).fill(c));
+    const participant3 = Array(reps)
+      .fill(d)
+      .concat(Array(reps).fill(c))
+      .concat(Array(reps).fill(b))
+      .concat(Array(reps).fill(a));
+    const participant4 = Array(reps)
+      .fill(c)
+      .concat(Array(reps).fill(a))
+      .concat(Array(reps).fill(d))
+      .concat(Array(reps).fill(b));
+
+    if (id === 1) {
+      return participant1;
+    } else if (id === 2) {
+      return participant2;
+    } else if (id === 3) {
+      return participant3;
+    } else if (id === 4) {
+      return participant4;
+    } else {
+      return participant1;
+    }
   };
 
   onSubmit = event => {
@@ -95,7 +161,7 @@ class App extends React.Component {
           <form onSubmit={this.onSubmit}>
             <label>
               Participant ID:
-              <input type="text" name="id" required="true"  />
+              <input type="text" name="id" required="true" />
             </label>
             <input type="submit" value="Submit" />
           </form>
@@ -111,7 +177,12 @@ class App extends React.Component {
             exact
             path="/"
             render={props => (
-              <Watch {...props} trials={this.randomizeTrials()} id={id} />
+              <Watch
+                {...props}
+                trials={this.randomizeTrials(id)}
+                id={id}
+                phrases={this.getPhrases()}
+              />
             )}
           />
         )}

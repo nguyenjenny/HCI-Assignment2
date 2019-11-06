@@ -11,11 +11,11 @@ html,body{
 
 .wrapper{
     height: 100%;
+    padding-top: 20%;
     text-align: center;
     
 
 }
-
 .watch{
     height: 100%;
 }
@@ -64,5 +64,19 @@ img {
 
 
 :focus {
-    outline: none;
+    outline: indigo;
+}
+
+h4 {
+    color: red;
+}
+
+.phrase {
+    font-size: 13pt;
+    color: #00008b;
+}
+
+.prompt {
+    font-size: 11pt;
+    text-transform: uppercase;
 }
