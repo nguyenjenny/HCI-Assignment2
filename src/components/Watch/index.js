@@ -249,7 +249,7 @@ class Watch extends React.Component {
           <button onClick={this.saveData}>SAVE</button>
 		  <p><b>Participant ID: {id}</b></p>
 		  <p>{type}  {scale} {trialIndex +1}</p>
-		  {(trialIndex)%3 == 0 &&
+		  {(trialIndex)%4 == 0 &&
 			  <h4>Take a break before starting</h4>
 		  }
 
