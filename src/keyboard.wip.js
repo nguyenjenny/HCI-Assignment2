@@ -177,13 +177,14 @@ class KeyboardZoom extends KeyboardNormal {
 		if(direction === "left"){ // Delete character.
 			var key = "-delete-";
 			this.props.onKeyCharReceived(key);
-		}else if(direction === "up"){ // Change keyboard layout from one to another.
-			// You have two keyboard layout. Alphabet and Symbols.
-			var imgPath = (this.state.keyboardImg === this.imgs[0])? this.imgs[1] : this.imgs[0];
-			this.setState({
-				keyboardImg:imgPath 
-			})
 		}
+		// else if(direction === "up"){ // Change keyboard layout from one to another.
+		// 	// You have two keyboard layout. Alphabet and Symbols.
+		// 	var imgPath = (this.state.keyboardImg === this.imgs[0])? this.imgs[1] : this.imgs[0];
+		// 	this.setState({
+		// 		keyboardImg:imgPath 
+		// 	})
+		// }
 	}
 
 	/**

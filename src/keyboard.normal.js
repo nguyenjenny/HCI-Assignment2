@@ -151,26 +151,27 @@ class KeyboardNormal extends React.Component {
 					this.isMoving = false;
 					this.startX = this.startY = null;
 					console.log("swipeleft");
-				}else{
-					this.onSwipe("right");
-					this.justGestured = true;
-					this.isMoving = false;
-					this.startX = this.startY = null;
-					console.log("swiperight");
 				}
-			}else if(Math.abs(dy) >= this.config.minSwipeY){
-				if(dy > 0){
-					this.onSwipe("up");
-					console.log("swipeup");
-					this.justGestured = true;
-					this.isMoving = false;
-					this.startX = this.startY = null;
-				}else{
-					this.onSwipe("down");
-					this.justGestured = true;
-					this.isMoving = false;
-					this.startX = this.startY = null;
-				}
+			// 	else{
+			// 		this.onSwipe("right");
+			// 		this.justGestured = true;
+			// 		this.isMoving = false;
+			// 		this.startX = this.startY = null;
+			// 		console.log("swiperight");
+			// 	}
+			// }else if(Math.abs(dy) >= this.config.minSwipeY){
+			// 	if(dy > 0){
+			// 		this.onSwipe("up");
+			// 		console.log("swipeup");
+			// 		this.justGestured = true;
+			// 		this.isMoving = false;
+			// 		this.startX = this.startY = null;
+			// 	}else{
+			// 		this.onSwipe("down");
+			// 		this.justGestured = true;
+			// 		this.isMoving = false;
+			// 		this.startX = this.startY = null;
+			// 	}
 			}
 		}
 	}
@@ -370,6 +371,8 @@ class KeyboardNormal extends React.Component {
 		// if your browser supports PointerEvent...
 		if(window.PointerEvent){
 			return(
+			<>	
+				<button>Backspace</button>
 				<div className="container" style = {style} tabIndex="-1"
 						onKeyDown={this.onKeyDown}
 						onTouchStart={this.onTouchStart}
@@ -385,6 +388,7 @@ class KeyboardNormal extends React.Component {
 							__html: this.state.overlayText
 						}}></div>
 				</div>
+			</>	
 			)
 		}else{ //else
 			return(

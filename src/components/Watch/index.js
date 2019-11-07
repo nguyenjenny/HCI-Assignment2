@@ -114,7 +114,6 @@ class Watch extends React.Component {
       time: 0,
 	  timer: null,
 	  deleteTimes: 0,
-	  targetPhrase: "",
     };
 
     //add the target phrases here or load them from external files
@@ -170,11 +169,13 @@ class Watch extends React.Component {
   saveData = () => {
     let log_file = JSON.stringify({
 	  id: this.props.id,	
-      trial: this.trials[this.state.trialIndex],
+	  type: this.trials[this.state.trialIndex].type,
+	  scale: this.trials[this.state.trialIndex].scale,
+	  targetPhrase: this.phrases[this.state.trialIndex],
 	  inputPhrase: this.state.inputPhrase,
 	  inputText: this.state.inputText,
       keyPressedTimes: this.state.keyPressedTimes,
-	  time: this.state.time,
+	  time: this.state.time/1000, //in seconds
 	  deleteTimes: this.state.deleteTimes
     });
 
@@ -229,10 +230,10 @@ class Watch extends React.Component {
 		<p className="prompt">
 			Type the following phrase:
 		</p>
-        <div className="watch">
 		<label>
             <p className='phrase'>{targetPhrase}</p>
         </label>
+        <div className="watch">
           <div className="typed">{this.state.inputText}</div>
           {type === "normal" ? (
             <KeyboardNormal
@@ -248,7 +249,7 @@ class Watch extends React.Component {
           <button onClick={this.saveData}>SAVE</button>
 		  <p><b>Participant ID: {id}</b></p>
 		  <p>{type}  {scale} {trialIndex +1}</p>
-		  {(trialIndex)%5 == 0 &&
+		  {(trialIndex)%3 == 0 &&
 			  <h4>Take a break before starting</h4>
 		  }
 
