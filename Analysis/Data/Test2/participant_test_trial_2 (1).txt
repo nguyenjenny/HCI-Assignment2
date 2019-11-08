@@ -1,0 +1,1 @@
+{"id":"test","type":"normal","scale":0.269,"targetPhrase":"so you think you deserve a raise","inputPhrase":"so tlu-delete--delete--delete-you think you deserve a raise","inputText":"so you think you deserve a raise","keyPressedTimes":38,"time":5.139,"deleteTimes":3}

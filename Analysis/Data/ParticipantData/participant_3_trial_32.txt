@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"where did you get that tie","inputPhrase":"wge-delete--delete-hw-delete-ere did u-delete-you bey-delete--delete--delete-get that tie","inputText":"where did you get that tie","keyPressedTimes":40,"time":24.2187,"deleteTimes":7}

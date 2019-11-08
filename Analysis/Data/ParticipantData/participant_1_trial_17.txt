@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"targetPhrase":"the insulation is not working","inputPhrase":"the insulation ix-delete-s mo-delete--delete-not working","inputText":"the insulation is not working","keyPressedTimes":35,"time":17.0355,"deleteTimes":3}

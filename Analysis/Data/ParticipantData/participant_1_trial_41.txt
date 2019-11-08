@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"targetPhrase":"i watched blazing saddles","inputPhrase":"i watched bo-delete-lazing saddles","inputText":"i watched blazing saddles","keyPressedTimes":27,"time":26.4696,"deleteTimes":1}

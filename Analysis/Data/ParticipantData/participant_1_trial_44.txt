@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"targetPhrase":"why do you ask silly questions","inputPhrase":"why doy-delete- you-delete--delete-ou ask silly questions","inputText":"why do you ask silly questions","keyPressedTimes":36,"time":32.0743,"deleteTimes":3}

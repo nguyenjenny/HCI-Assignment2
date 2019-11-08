@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"a picture is worth many words","inputPhrase":"a-delete-a picture is worth ,a-delete--delete-,a-delete- -delete--delete--delete-m-delete- mamy-delete--delete-ny words","inputText":"a picture is worth many words","keyPressedTimes":49,"time":25.2109,"deleteTimes":10}

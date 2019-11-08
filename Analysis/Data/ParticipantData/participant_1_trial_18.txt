@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"targetPhrase":"please take a bath this month","inputPhrase":"please take a bath tni-delete--delete-his mp-delete-ontn-delete--delete-th","inputText":"please take a bath this month","keyPressedTimes":39,"time":19.241299999999995,"deleteTimes":5}

@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"targetPhrase":"a coupon for a free sample","inputPhrase":"s-delete-z-delete-a coupom-delete-n for a cre-delete--delete--delete-free za-delete--delete-sample","inputText":"a coupon for a free sample","keyPressedTimes":42,"time":27.051799999999997,"deleteTimes":8}

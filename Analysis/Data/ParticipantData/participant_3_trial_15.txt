@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.2405,"targetPhrase":"players must know all the rules","inputPhrase":"players mustk-delete- know all the rules","inputText":"players must know all the rules","keyPressedTimes":33,"time":37.391999999999996,"deleteTimes":1}

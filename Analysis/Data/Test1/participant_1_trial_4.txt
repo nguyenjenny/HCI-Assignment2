@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"inputPhrase":"the back yard of of -delete--delete--delete-a our houz-delete-se","inputText":"the back yard of a our house","keyPressedTimes":36,"time":50.95,"deleteTimes":4}

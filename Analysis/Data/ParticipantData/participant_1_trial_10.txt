@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"obligations must be met first","inputPhrase":"obligations must bd -delete--delete-e mey-delete-t first","inputText":"obligations must be met first","keyPressedTimes":35,"time":17.9416,"deleteTimes":3}

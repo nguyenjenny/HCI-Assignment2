@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"targetPhrase":"what a monkey sees a monkey will do","inputPhrase":"what a monl-delete-ket -delete--delete-y sers-delete--delete-es a mo m-delete--delete-nkey wil.-delete--delete-..-delete--delete-ll dp-delete-o","inputText":"what a monkey sees a monkey will do","keyPressedTimes":59,"time":34.2924,"deleteTimes":12}

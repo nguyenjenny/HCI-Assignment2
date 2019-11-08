@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.2405,"inputPhrase":"no ec-delete-xchange without a bill","inputText":"no exchange without a bill","keyPressedTimes":28,"time":34.8,"deleteTimes":1}

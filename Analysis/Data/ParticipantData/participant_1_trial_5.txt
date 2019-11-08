@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"historic meeting without a result","inputPhrase":"histof-delete-ro-delete-ic  e-delete-meetinv -delete--delete-g without a rex-delete-sult","inputText":"historic  meeting without a result","keyPressedTimes":46,"time":25.2232,"deleteTimes":6}

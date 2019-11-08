@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.2405,"inputPhrase":"hands on experience with a job","inputText":"hands on experience with a job","keyPressedTimes":30,"time":35.8,"deleteTimes":0}

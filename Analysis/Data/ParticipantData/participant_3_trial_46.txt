@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"targetPhrase":"parking lot is full of trucks","inputPhrase":"parkinf-delete-g lots -delete--delete- is du-delete--delete-full of trucks","inputText":"parking lot is full of trucks","keyPressedTimes":39,"time":21.3774,"deleteTimes":5}

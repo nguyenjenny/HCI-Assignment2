@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"inputPhrase":"this is very unfortunate","inputText":"this is very unfortunate","keyPressedTimes":24,"time":29.916666666666668,"deleteTimes":0}

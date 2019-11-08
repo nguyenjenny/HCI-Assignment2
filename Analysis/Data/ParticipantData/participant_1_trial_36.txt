@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.2405,"targetPhrase":"there will be some fog tonight","inputPhrase":"there wi.-delete-ll be some fog tonign-delete-ht","inputText":"there will be some fog tonight","keyPressedTimes":34,"time":29.1592,"deleteTimes":2}

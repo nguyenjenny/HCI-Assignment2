@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"targetPhrase":"relations are very strained","inputPhrase":"reala-delete--delete--delete-lations ate-delete--delete-re vwr-delete--delete-ery strained -delete- -delete-","inputText":"relations are very strained","keyPressedTimes":45,"time":29.511799999999997,"deleteTimes":9}

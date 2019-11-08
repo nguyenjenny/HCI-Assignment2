@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.2405,"targetPhrase":"a tumor is ok provided it is benign","inputPhrase":"at-delete-t-delete- tumor is ok provided it is benign","inputText":"a tumor is ok provided it is benign","keyPressedTimes":39,"time":45.3501,"deleteTimes":2}

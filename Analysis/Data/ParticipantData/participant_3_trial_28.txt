@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"these barracks are big enough","inputPhrase":"these barracks arw bi-delete--delete--delete--delete-e big enough","inputText":"these barracks are big enough","keyPressedTimes":37,"time":22.996899999999997,"deleteTimes":4}

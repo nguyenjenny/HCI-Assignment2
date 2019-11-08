@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"every apple from every tree","inputPhrase":"every apple dro-delete--delete--delete-from e er-delete--delete--delete-very tree","inputText":"every apple from every tree","keyPressedTimes":39,"time":22.4885,"deleteTimes":6}

@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"space is a high priority","inputPhrase":"space is a high priority","inputText":"space is a high priority","keyPressedTimes":24,"time":2.313,"deleteTimes":0}

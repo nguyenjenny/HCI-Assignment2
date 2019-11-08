@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.2405,"targetPhrase":"our housekeeper does a thorough job","inputPhrase":"our housekeepet-delete-r does a thorough job","inputText":"our housekeeper does a thorough job","keyPressedTimes":37,"time":47.17869999999999,"deleteTimes":1}

@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.269,"targetPhrase":"the first time he tried to swim","inputPhrase":"the first time he tried to swim","inputText":"the first time he tried to swim","keyPressedTimes":31,"time":33.55029999999999,"deleteTimes":0}

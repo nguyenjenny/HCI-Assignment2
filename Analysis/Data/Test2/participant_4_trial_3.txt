@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"head shoulders knees and toes","inputPhrase":"head shoulderss-delete--delete-rs knees and toes","inputText":"head shoulderrs knees and toes","keyPressedTimes":34,"time":2.583,"deleteTimes":2}

@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"inputPhrase":"the postal service is very slow -delete- ","inputText":"the postal service is very slow ","keyPressedTimes":34,"time":45.4,"deleteTimes":1}

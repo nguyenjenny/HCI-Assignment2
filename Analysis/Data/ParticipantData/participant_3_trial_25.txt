@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"the pen is mightier than the sword","inputPhrase":"thh-delete-e pen is  ightiet-delete--delete--delete--delete--delete--delete--delete- mif-delete-ghtier than the sword","inputText":"the pen is   mightier than the sword","keyPressedTimes":54,"time":33.6282,"deleteTimes":9}

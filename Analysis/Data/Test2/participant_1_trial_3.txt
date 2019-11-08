@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"targetPhrase":"a quarter of a century","inputPhrase":"a quarter of a adsd-delete--delete--delete--delete-century","inputText":"a quarter of a century","keyPressedTimes":30,"time":3.298,"deleteTimes":4}

@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.269,"targetPhrase":"one hour is allotted for questions","inputPhrase":"one hour is allotted for questions","inputText":"one hour is allotted for questions","keyPressedTimes":34,"time":37.2157,"deleteTimes":0}

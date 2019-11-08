@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"an airport is a very busy place","inputPhrase":"an airport ias -delete--delete--delete-s a very busy pk-delete-lace","inputText":"an airport is a very busy place","keyPressedTimes":39,"time":26.244099999999996,"deleteTimes":4}

@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"please keep this confidential","inputPhrase":"p.-delete-leade-delete--delete-se keep this co n-delete--delete-nfidential","inputText":"please keep this confidential","keyPressedTimes":39,"time":22.4885,"deleteTimes":5}

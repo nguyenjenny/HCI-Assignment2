@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.269,"targetPhrase":"important for political parties","inputPhrase":"important for political parties","inputText":"important for political parties","keyPressedTimes":31,"time":33.5216,"deleteTimes":0}

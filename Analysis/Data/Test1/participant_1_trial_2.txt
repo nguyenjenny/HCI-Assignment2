@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"inputPhrase":"space is a high ps-delete-rior-delete-rity","inputText":"space is a high priority","keyPressedTimes":28,"time":80.73333333333333,"deleteTimes":2}

@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"limited warranty of two years","inputPhrase":"li,-delete-mited warrg-delete-abt-delete--delete-nty of two years","inputText":"limited warranty of two years","keyPressedTimes":37,"time":23.5791,"deleteTimes":4}

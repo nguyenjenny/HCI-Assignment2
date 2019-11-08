@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"targetPhrase":"sent this by registered mail","inputPhrase":"sent this by registeg-delete-rec-delete-d mail","inputText":"sent this by registered mail","keyPressedTimes":32,"time":14.218799999999998,"deleteTimes":2}

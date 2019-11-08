@@ -1,0 +1,1 @@
+{"id":"test","type":"zoom","scale":0.2405,"targetPhrase":"a psychiatrist will help you","inputPhrase":"a psychiatrist will help you","inputText":"a psychiatrist will help you","keyPressedTimes":28,"time":8.826,"deleteTimes":0}

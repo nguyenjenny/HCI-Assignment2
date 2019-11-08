@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"all together in one big pile","inputPhrase":"all together in one ni-delete--delete-big pi.-delete-le","inputText":"all together in one big pile","keyPressedTimes":34,"time":17.6218,"deleteTimes":3}

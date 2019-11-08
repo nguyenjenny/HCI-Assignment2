@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"inputPhrase":"y-delete-the music is better that it sounds-delete-s","inputText":"the music is better that it sounds","keyPressedTimes":38,"time":69.2,"deleteTimes":2}

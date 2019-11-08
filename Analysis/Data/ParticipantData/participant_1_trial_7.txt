@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"gas bills are sent monthly","inputPhrase":"gas-delete-b-delete-s bills are sent monthly","inputText":"gas bills are sent monthly","keyPressedTimes":30,"time":17.4373,"deleteTimes":2}

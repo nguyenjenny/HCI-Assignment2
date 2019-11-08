@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.2405,"targetPhrase":"everybody looses in custody battles","inputPhrase":"everybody looses in custody battles","inputText":"everybody looses in custody battles","keyPressedTimes":35,"time":37.64209999999999,"deleteTimes":0}

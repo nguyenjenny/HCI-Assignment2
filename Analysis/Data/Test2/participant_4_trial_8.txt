@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.269,"targetPhrase":"we went grocery shopping","inputPhrase":"f-delete-we went grrocery shopping","inputText":"we went grrocery shopping","keyPressedTimes":27,"time":2.044,"deleteTimes":1}

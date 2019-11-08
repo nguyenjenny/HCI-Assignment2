@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"targetPhrase":"fall is my favorite season","inputPhrase":"fall is my fa our-delete--delete--delete--delete-vorite ze-delete--delete-season","inputText":"fall is my favorite season","keyPressedTimes":38,"time":19.852199999999996,"deleteTimes":6}

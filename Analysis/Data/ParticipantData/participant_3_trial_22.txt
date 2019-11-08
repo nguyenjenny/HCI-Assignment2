@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.2405,"targetPhrase":"rapidly running short on words","inputPhrase":"rapidly running short on words","inputText":"rapidly running short on words","keyPressedTimes":30,"time":33.1239,"deleteTimes":0}

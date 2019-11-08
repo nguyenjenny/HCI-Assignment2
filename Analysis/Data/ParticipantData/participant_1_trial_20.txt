@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"targetPhrase":"taking the train is usually faster","inputPhrase":"taking the train is usually fadye-delete--delete--delete-ster","inputText":"taking the train is usually faster","keyPressedTimes":40,"time":18.8354,"deleteTimes":3}

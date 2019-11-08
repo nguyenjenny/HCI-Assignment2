@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"targetPhrase":"teaching services will help","inputPhrase":"teaching servicex -delete--delete-s will help","inputText":"teaching services will help","keyPressedTimes":31,"time":14.936299999999997,"deleteTimes":2}

@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.2405,"targetPhrase":"i like baroque and classical music","inputPhrase":"i like baroque and classical mux-delete-sic","inputText":"i like baroque and classical music","keyPressedTimes":36,"time":35.8709,"deleteTimes":1}

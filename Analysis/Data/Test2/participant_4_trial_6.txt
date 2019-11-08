@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.269,"targetPhrase":"do not drink too much","inputPhrase":"do not drink too much","inputText":"do not drink too much","keyPressedTimes":21,"time":1.087,"deleteTimes":0}

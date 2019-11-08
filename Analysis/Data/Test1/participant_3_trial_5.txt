@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"inputPhrase":"communicate throu-delete--delete-ou-delete--delete-uosgh email","inputText":"communicate thruosgh email","keyPressedTimes":34,"time":54.35,"deleteTimes":4}

@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"for your information only","inputPhrase":"d-delete-for your informatiohns only","inputText":"for your informatiohns only","keyPressedTimes":29,"time":2.19,"deleteTimes":1}

@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.2405,"targetPhrase":"i took the rover from the shop","inputPhrase":"y-delete-it-delete- took the rover from the shop","inputText":"i took the rover from the shop","keyPressedTimes":34,"time":38.1341,"deleteTimes":2}

@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"inputPhrase":"tje -delete--delete--delete-he postal service is very slw-delete-ows","inputText":"the postal service is very slows","keyPressedTimes":40,"time":66.71666666666667,"deleteTimes":4}

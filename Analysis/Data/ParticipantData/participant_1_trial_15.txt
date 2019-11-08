@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"targetPhrase":"be persistent to win a strike","inputPhrase":"be persix-delete-stant to wu-delete-i n-delete--delete-n a stro-delete-uk-delete--delete-ike","inputText":"be persistant to win a strike","keyPressedTimes":43,"time":22.668899999999997,"deleteTimes":7}

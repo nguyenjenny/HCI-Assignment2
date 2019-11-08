@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.269,"targetPhrase":"thank you for your help","inputPhrase":"thank you for your help-delete-ps","inputText":"thank you for your helps","keyPressedTimes":26,"time":3.571,"deleteTimes":1}

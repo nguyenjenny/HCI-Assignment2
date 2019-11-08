@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"targetPhrase":"well connected with people","inputPhrase":"well connectec-delete-d with pr-delete-eople","inputText":"well connected with people","keyPressedTimes":30,"time":28.0399,"deleteTimes":2}

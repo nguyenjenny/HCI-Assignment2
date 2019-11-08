@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.2405,"targetPhrase":"go out for some pizza and beer","inputPhrase":"go out for some pizza and beer","inputText":"go out for some pizza and beer","keyPressedTimes":30,"time":28.6057,"deleteTimes":0}

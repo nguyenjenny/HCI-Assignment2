@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"targetPhrase":"neither a borrower nor a lender be","inputPhrase":"neither ay-delete- borrower nor a lendr-delete-er v-delete-be","inputText":"neither a borrower nor a lender be","keyPressedTimes":40,"time":33.271499999999996,"deleteTimes":3}

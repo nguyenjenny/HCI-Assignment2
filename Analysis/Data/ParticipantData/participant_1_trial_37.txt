@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"targetPhrase":"the rationale behind the decision","inputPhrase":"the rationz-delete-ale behind the desic-delete--delete--delete-cision","inputText":"the rationale behind the decision","keyPressedTimes":41,"time":37.994699999999995,"deleteTimes":4}

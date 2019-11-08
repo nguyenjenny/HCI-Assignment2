@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"all good boys deserve fudge","inputPhrase":"all good boyd-delete-s f-delete-ded-delete-serve fudge","inputText":"all good boys deserve fudge","keyPressedTimes":33,"time":22.730399999999996,"deleteTimes":3}

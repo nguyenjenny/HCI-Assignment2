@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"targetPhrase":"seasoned golfers love the game","inputPhrase":"seasones -delete--delete-d golfers po-delete--delete-love the gaj-delete-me","inputText":"seasoned golfers love the game","keyPressedTimes":40,"time":23.6406,"deleteTimes":5}

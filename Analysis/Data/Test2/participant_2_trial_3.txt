@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.269,"targetPhrase":"that is very unfortunate","inputPhrase":"that  is very  unfortunate ¾¾-delete--delete--delete- ¾-delete-h","inputText":"that  is very  unfortunate h","keyPressedTimes":36,"time":4.26,"deleteTimes":4}

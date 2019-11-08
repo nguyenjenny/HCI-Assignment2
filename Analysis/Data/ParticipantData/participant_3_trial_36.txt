@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"you will loose your voice","inputPhrase":"you e-delete-will loose yiy -delete--delete--delete-our vou-delete-ice","inputText":"you will loose your voice","keyPressedTimes":35,"time":27.133799999999997,"deleteTimes":5}

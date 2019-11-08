@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.269,"targetPhrase":"my preferred treat is chocolate","inputPhrase":"my preferred treat iss-delete- chocolate","inputText":"my preferred treat is chocolate","keyPressedTimes":33,"time":37.515,"deleteTimes":1}

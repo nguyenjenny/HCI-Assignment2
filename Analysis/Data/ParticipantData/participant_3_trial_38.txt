@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"targetPhrase":"prayer in schools offends some","inputPhrase":"prayer im -delete--delete-n s h-delete-c-delete--delete-cg-delete-hools offends some","inputText":"prayer in schools offends some","keyPressedTimes":42,"time":27.6135,"deleteTimes":6}

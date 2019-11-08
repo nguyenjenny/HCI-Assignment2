@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"arguing with the boss is futile","inputPhrase":"arguinb-delete-g with tb-delete-ne-delete--delete-he boss is futile","inputText":"arguing with the boss is futile","keyPressedTimes":39,"time":23.853799999999996,"deleteTimes":4}

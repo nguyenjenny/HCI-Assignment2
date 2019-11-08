@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"targetPhrase":"where did you get such a silly idea","inputPhrase":"where did you get such a silly idea","inputText":"where did you get such a silly idea","keyPressedTimes":35,"time":34.931999999999995,"deleteTimes":0}

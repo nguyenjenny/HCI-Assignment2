@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"he played a pimp in that movie","inputPhrase":"he p,-delete-layec-delete-c-delete-d a li-delete--delete-pimp i  -delete-n-delete--delete-n that  o-delete-movie","inputText":"he played a pimp in that  movie","keyPressedTimes":49,"time":30.889399999999995,"deleteTimes":9}

@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.269,"targetPhrase":"movie about a nutty professor","inputPhrase":"movie about a nutty professor","inputText":"movie about a nutty professor","keyPressedTimes":29,"time":32.3531,"deleteTimes":0}

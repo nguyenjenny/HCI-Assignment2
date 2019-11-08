@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.269,"targetPhrase":"circumstances are unacceptable","inputPhrase":"circumstances are unacceptable","inputText":"circumstances are unacceptable","keyPressedTimes":30,"time":34.985299999999995,"deleteTimes":0}

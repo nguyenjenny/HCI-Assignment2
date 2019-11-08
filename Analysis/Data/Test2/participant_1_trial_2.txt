@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"no exchange without a bill","inputPhrase":"no ec-delete-xchange wef-delete--delete--delete-without a bill","inputText":"no exchange without a bill","keyPressedTimes":34,"time":3.444,"deleteTimes":4}

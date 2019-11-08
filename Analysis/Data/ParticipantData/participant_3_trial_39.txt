@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"targetPhrase":"interactions between men and women","inputPhrase":"interacyin-delete--delete--delete-tip-delete-om-delete-ns betwew-delete-d-delete-en men and wp-delete-omen","inputText":"interactions between men and women","keyPressedTimes":50,"time":31.672499999999996,"deleteTimes":8}

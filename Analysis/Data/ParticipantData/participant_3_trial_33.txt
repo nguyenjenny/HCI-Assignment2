@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"what to do when the oil runs dry","inputPhrase":"wga-delete--delete-g-delete-hat to do when tnd-delete--delete-he oil runs dry","inputText":"what to do when the oil runs dry","keyPressedTimes":42,"time":24.3212,"deleteTimes":5}

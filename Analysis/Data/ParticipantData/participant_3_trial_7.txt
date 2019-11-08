@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.269,"targetPhrase":"wear a crown with many jewels","inputPhrase":"wear a crown with many jewels","inputText":"wear a crown with many jewels","keyPressedTimes":29,"time":31.295299999999997,"deleteTimes":0}

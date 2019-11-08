@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"targetPhrase":"exceed the maximum speed limit","inputPhrase":"ec-delete-xcesc-delete--delete-ed the ma x-delete--delete-ximy-delete-u m-delete--delete-m speed ,-delete-limit","inputText":"exceed the maximum speed limit","keyPressedTimes":48,"time":34.5835,"deleteTimes":9}

@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"parking lot is full of trucks","inputPhrase":"pae-delete-rking lot is full of trucks","inputText":"parking lot is full of trucks","keyPressedTimes":31,"time":15.547199999999998,"deleteTimes":1}

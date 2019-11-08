@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"the postal service is very slow","inputPhrase":"the postal sedrvice is very slow ","inputText":"the postal sedrvice is very slow ","keyPressedTimes":33,"time":1.88,"deleteTimes":0}

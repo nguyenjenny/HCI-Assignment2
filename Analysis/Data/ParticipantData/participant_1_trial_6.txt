@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.2405,"targetPhrase":"a good response to the question","inputPhrase":"a good respo s-delete--delete-nxe-delete--delete-se to gn-delete--delete-the quext-delete--delete-stjo-delete--delete-iom-delete-n","inputText":"a good response to the question","keyPressedTimes":53,"time":27.314199999999996,"deleteTimes":11}

@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"targetPhrase":"you must make an appointment","inputPhrase":"ypu-delete--delete-pu-delete--delete-p-delete-ou ,u-delete--delete-must mz-delete-ake an appointmem-delete-nt","inputText":"you must make an appointment","keyPressedTimes":46,"time":23.304399999999998,"deleteTimes":9}

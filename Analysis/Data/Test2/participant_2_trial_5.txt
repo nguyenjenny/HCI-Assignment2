@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.2405,"targetPhrase":"mom made her a turtleneck","inputPhrase":"mom made her a turtlenck sd-delete--delete--delete-","inputText":"mom made her a turtlenck","keyPressedTimes":30,"time":2.509,"deleteTimes":3}

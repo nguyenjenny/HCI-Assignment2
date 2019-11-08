@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.2405,"targetPhrase":"medieval times were very hard","inputPhrase":"medieval times were veru-delete--delete-ry hard","inputText":"medieval times were very hard","keyPressedTimes":33,"time":28.5196,"deleteTimes":2}

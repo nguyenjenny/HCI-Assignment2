@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"targetPhrase":"drove my chevy to the levee","inputPhrase":"drove my chevy to the levee","inputText":"drove my chevy to the levee","keyPressedTimes":27,"time":15.1372,"deleteTimes":0}

@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"targetPhrase":"the early bird gets the worm","inputPhrase":"the earlj-delete-y birdge-delete--delete- geys -delete--delete--delete-ta-delete-s thd-delete-e worm","inputText":"the early bird gets the worm","keyPressedTimes":44,"time":28.950099999999996,"deleteTimes":8}

@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.2405,"targetPhrase":"pay off a mortgage for a house","inputPhrase":"pay off a mortgage for a house","inputText":"pay off a mortgage for a house","keyPressedTimes":30,"time":28.433499999999995,"deleteTimes":0}

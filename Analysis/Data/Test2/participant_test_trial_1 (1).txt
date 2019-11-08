@@ -1,0 +1,1 @@
+{"id":"test","type":"normal","scale":0.2405,"targetPhrase":"i am wearing a tie and a jacket","inputPhrase":"iq-delete-a-delete- an qear-delete--delete--delete--delete-qa-delete--delete-wearing a tie and a jacket","inputText":"i an wearing a tie and a jacket","keyPressedTimes":47,"time":8.079,"deleteTimes":8}

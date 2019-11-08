@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"targetPhrase":"win first prize in the contest","inputPhrase":"win first prize in the contest","inputText":"win first prize in the contest","keyPressedTimes":30,"time":29.073099999999997,"deleteTimes":0}

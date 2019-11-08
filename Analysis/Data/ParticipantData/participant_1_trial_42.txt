@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"targetPhrase":"vote according to your conscience","inputPhrase":"vi-delete-ote according to y -delete-our conscience","inputText":"vote according to your conscience","keyPressedTimes":37,"time":32.73029999999999,"deleteTimes":2}

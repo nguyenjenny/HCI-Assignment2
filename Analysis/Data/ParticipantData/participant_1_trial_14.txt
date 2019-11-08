@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"targetPhrase":"motivational seminars make me sick","inputPhrase":"motiba-delete--delete-vational semimz-delete--delete-narz-delete-s mame-delete--delete-ke mr-delete-e so-delete-ick","inputText":"motivational seminars make me sick","keyPressedTimes":52,"time":32.8041,"deleteTimes":9}

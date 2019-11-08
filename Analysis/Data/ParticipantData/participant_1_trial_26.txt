@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.2405,"targetPhrase":"sing the gospel and the blues","inputPhrase":"sing theg-delete- gospel and the blues","inputText":"sing the gospel and the blues","keyPressedTimes":31,"time":30.540899999999997,"deleteTimes":1}

@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.2405,"targetPhrase":"every saturday he folds the laundry","inputPhrase":"ta-delete--delete-every saturday he folds the laundry","inputText":"every saturday he folds the laundry","keyPressedTimes":39,"time":46.953199999999995,"deleteTimes":2}

@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.2405,"inputPhrase":"a quarter of a century","inputText":"a quarter of a century","keyPressedTimes":22,"time":42.7,"deleteTimes":0}

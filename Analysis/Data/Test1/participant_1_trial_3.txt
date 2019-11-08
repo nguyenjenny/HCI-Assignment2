@@ -1,0 +1,1 @@
+{"id":"1","type":"normal","scale":0.269,"inputPhrase":"x-delete-communicaate through email","inputText":"communicaate through email","keyPressedTimes":28,"time":54.88333333333333,"deleteTimes":1}

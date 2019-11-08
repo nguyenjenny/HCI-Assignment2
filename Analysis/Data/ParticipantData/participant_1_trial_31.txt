@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.2405,"targetPhrase":"your presentation was inspiring","inputPhrase":"your presem-delete- n-delete--delete-ntation was inspirinf-delete-g","inputText":"your presentation was inspiring","keyPressedTimes":39,"time":37.61339999999999,"deleteTimes":4}

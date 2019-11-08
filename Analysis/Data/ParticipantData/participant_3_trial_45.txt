@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.2405,"targetPhrase":"a security force of eight thousand","inputPhrase":"a swcurit-delete--delete--delete--delete--delete--delete-ecurity v-delete-foo-delete-r c-delete--delete-ce of eight thousand","inputText":"a security force of eight thousand","keyPressedTimes":54,"time":29.007499999999997,"deleteTimes":10}

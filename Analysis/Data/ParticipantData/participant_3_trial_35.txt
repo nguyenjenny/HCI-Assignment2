@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"the dow jones index has risen","inputPhrase":"tge-delete--delete-he dow jones index has riae-delete--delete-a-delete-xe-delete--delete-seb-delete-n","inputText":"the dow jones index has risen","keyPressedTimes":45,"time":27.359299999999998,"deleteTimes":8}

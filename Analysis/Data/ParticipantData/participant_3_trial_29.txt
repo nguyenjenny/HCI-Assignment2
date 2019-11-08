@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"people blow their horn a lot","inputPhrase":"people bliw -delete--delete--delete-ow their horn a ,o-delete--delete-lot","inputText":"people blow their horn a lot","keyPressedTimes":38,"time":25.801299999999998,"deleteTimes":5}

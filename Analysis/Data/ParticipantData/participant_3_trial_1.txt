@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.269,"targetPhrase":"the second largest country","inputPhrase":"the second largest country","inputText":"the second largest country","keyPressedTimes":26,"time":31.746299999999998,"deleteTimes":0}

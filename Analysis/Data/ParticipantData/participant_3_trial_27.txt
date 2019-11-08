@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"exercise is good for the mind","inputPhrase":"wx-delete--delete-exwe-delete--delete-erciae-delete--delete-se ia -delete--delete-s good for tge-delete--delete-he minx-delete-d","inputText":"exercise is good for the mind","keyPressedTimes":51,"time":32.631899999999995,"deleteTimes":11}

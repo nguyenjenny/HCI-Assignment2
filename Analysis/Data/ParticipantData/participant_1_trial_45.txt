@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"targetPhrase":"frequently asked questions","inputPhrase":"frequently asked questions","inputText":"frequently asked questions","keyPressedTimes":26,"time":23.1322,"deleteTimes":0}

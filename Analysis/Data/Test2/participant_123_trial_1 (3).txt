@@ -1,0 +1,1 @@
+{"id":"123","type":"normal","scale":0.2405,"targetPhrase":"suburbs are sprawling up everywhere","inputPhrase":"suburbs sdd-delete--delete--delete-are spwa-delete--delete-rawling up everyjhere","inputText":"suburbs are sprawling up everyjhere","keyPressedTimes":45,"time":8.509,"deleteTimes":5}

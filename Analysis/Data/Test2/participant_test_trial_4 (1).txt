@@ -1,0 +1,1 @@
+{"id":"test","type":"zoom","scale":0.269,"targetPhrase":"physics and chemistry are hard","inputPhrase":"physics and chemistry","inputText":"physics and chemistry","keyPressedTimes":21,"time":6.649,"deleteTimes":0}

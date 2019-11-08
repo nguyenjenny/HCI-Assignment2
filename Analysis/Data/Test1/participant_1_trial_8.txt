@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"inputPhrase":"buck¾-delete-le up for safety","inputText":"buckle up for safety","keyPressedTimes":22,"time":44.56666666666667,"deleteTimes":1}

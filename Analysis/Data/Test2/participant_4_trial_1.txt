@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"call for more details","inputPhrase":"call for more details","inputText":"call for more details","keyPressedTimes":21,"time":1.123,"deleteTimes":0}

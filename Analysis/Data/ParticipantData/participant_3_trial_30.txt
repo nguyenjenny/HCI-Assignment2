@@ -1,0 +1,1 @@
+{"id":"3","type":"normal","scale":0.269,"targetPhrase":"bank transaction was not registered","inputPhrase":"bank transactiom-delete-ns was not registee-delete-red","inputText":"bank transactions was not registered","keyPressedTimes":40,"time":27.662699999999997,"deleteTimes":2}

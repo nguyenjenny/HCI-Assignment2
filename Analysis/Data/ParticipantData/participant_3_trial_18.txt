@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.2405,"targetPhrase":"the cat has a pleasant temperament","inputPhrase":"the cat has a pleasent temperament","inputText":"the cat has a pleasent temperament","keyPressedTimes":34,"time":38.810599999999994,"deleteTimes":0}

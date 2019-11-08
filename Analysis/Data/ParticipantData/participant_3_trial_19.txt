@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.2405,"targetPhrase":"so you think you deserve a raise","inputPhrase":"so you think you s-delete-deserve a raise","inputText":"so you think you deserve a raise","keyPressedTimes":34,"time":36.2153,"deleteTimes":1}

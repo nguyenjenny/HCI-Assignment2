@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.269,"targetPhrase":"we are subjects and must obey","inputPhrase":"we are subjects and must obey","inputText":"we are subjects and must obey","keyPressedTimes":29,"time":27.105099999999997,"deleteTimes":0}

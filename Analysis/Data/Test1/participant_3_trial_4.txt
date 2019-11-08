@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.2405,"inputPhrase":"popularity is desericv-delete--delete--delete--delete--delete-ired by all -delete-","inputText":"popularity is desired by all","keyPressedTimes":40,"time":44.53333333333333,"deleteTimes":6}

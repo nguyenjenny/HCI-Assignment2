@@ -1,0 +1,1 @@
+{"id":"1","type":"zoom","scale":0.2405,"targetPhrase":"my mother makes good cookies","inputPhrase":"my mother makes good cookies","inputText":"my mother makes good cookies","keyPressedTimes":28,"time":31.615099999999998,"deleteTimes":0}

@@ -1,0 +1,1 @@
+{"id":"3","type":"zoom","scale":0.269,"inputPhrase":"just in time for  the  pre-delete-ary-delete--delete-ty","inputText":"just in time for  the  praty","keyPressedTimes":34,"time":49.81666666666667,"deleteTimes":3}

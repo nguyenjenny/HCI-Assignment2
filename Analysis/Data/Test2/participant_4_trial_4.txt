@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"our fax number has changed","inputPhrase":"our faxc-delete- number has changed","inputText":"our fax number has changed","keyPressedTimes":28,"time":1.414,"deleteTimes":1}
