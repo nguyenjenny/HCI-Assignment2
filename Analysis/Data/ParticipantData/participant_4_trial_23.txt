@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"the registration period is over","inputPhrase":"the registration prr-delete--delete-eripd-delete--delete-od is p-delete-over","inputText":"the registration period is over","keyPressedTimes":41,"time":20.7993,"deleteTimes":5}

@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.269,"targetPhrase":"this leather jacket is too warm","inputPhrase":"this leather jacket id-delete-s too warm","inputText":"this leather jacket is too warm","keyPressedTimes":33,"time":35.793,"deleteTimes":1}

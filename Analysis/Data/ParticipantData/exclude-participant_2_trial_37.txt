@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"your presentation was inspiring","inputPhrase":"u","inputText":"u","keyPressedTimes":1,"time":1.4472999999999998,"deleteTimes":0}

@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.269,"targetPhrase":"are you sure you want this","inputPhrase":"are you sure you want this","inputText":"are you sure you want this","keyPressedTimes":26,"time":26.1211,"deleteTimes":0}

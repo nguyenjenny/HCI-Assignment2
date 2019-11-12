@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"the first time he tried to swim","inputPhrase":"the fo-delete-irsy-delete-t ti m-delete--delete-me n-delete-he tried tp-delete-o swin-delete- -delete-m","inputText":"the first time he tried to swim","keyPressedTimes":47,"time":28.991099999999996,"deleteTimes":8}

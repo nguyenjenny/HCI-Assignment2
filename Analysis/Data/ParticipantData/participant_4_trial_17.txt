@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"that is a very odd question","inputPhrase":"thar -delete--delete-t ix-delete-s q-delete-a vrr-delete--delete-ery odd question","inputText":"that is a very odd question","keyPressedTimes":39,"time":26.514699999999998,"deleteTimes":6}

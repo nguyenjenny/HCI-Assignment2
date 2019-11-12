@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"the most beautiful sunset","inputPhrase":"the most beautiful suna-delete-set","inputText":"the most beautiful sunset","keyPressedTimes":27,"time":33.5749,"deleteTimes":1}

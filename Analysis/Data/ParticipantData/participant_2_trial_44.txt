@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"the food at this restaurant","inputPhrase":"the food at this restaurant","inputText":"the food at this restaurant","keyPressedTimes":27,"time":33.291999999999994,"deleteTimes":0}

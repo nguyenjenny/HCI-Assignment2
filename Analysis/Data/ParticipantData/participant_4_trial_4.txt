@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"the opposing team is over there","inputPhrase":"the opposing team is over there","inputText":"the opposing team is over there","keyPressedTimes":31,"time":35.547,"deleteTimes":0}

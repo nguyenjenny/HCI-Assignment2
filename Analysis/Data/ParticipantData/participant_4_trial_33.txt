@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.269,"targetPhrase":"her majesty visited our country","inputPhrase":"her majesty visited our country","inputText":"her majesty visited our country","keyPressedTimes":31,"time":30.6024,"deleteTimes":0}

@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.2405,"targetPhrase":"one of the poorest nations","inputPhrase":"onw -delete--delete-e of the poorest nq-delete-atio e-delete--delete-ns","inputText":"one of the poorest nations","keyPressedTimes":36,"time":20.7624,"deleteTimes":5}

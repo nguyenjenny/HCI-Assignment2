@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.269,"targetPhrase":"tickets are very expensive","inputPhrase":"tickets are very expem-delete-nsive","inputText":"tickets are very expensive","keyPressedTimes":28,"time":14.2639,"deleteTimes":1}

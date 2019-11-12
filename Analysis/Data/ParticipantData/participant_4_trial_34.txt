@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.269,"targetPhrase":"what a monkey sees a monkey will do","inputPhrase":"what a monkey sees a monkey will do","inputText":"what a monkey sees a monkey will do","keyPressedTimes":35,"time":34.829499999999996,"deleteTimes":0}

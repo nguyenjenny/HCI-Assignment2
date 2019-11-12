@@ -386,7 +386,7 @@ class App extends React.Component {
     // 38 mm --> 0.2405
     const scale38 = 0.2405;
     const scale42 = 0.269;
-    const reps = 16;
+    const reps = 12;
 
     const a = {
       type: "normal",

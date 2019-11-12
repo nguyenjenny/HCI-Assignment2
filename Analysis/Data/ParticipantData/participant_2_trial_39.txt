@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"do you like to go camping","inputPhrase":"do you like y-delete-to go camping","inputText":"do you like to go camping","keyPressedTimes":27,"time":34.44819999999999,"deleteTimes":1}

@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"electric cars need big fuel cells","inputPhrase":"electric cars need big fuel cells","inputText":"electric cars need big fuel cells","keyPressedTimes":33,"time":48.37179999999999,"deleteTimes":0}

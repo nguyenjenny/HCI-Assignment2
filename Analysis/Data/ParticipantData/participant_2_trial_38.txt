@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"find a nearby parking spot","inputPhrase":"find a nearby parking spot","inputText":"find a nearby parking spot","keyPressedTimes":26,"time":35.9529,"deleteTimes":0}

@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"the assault took six months","inputPhrase":"the assault took six months","inputText":"the assault took six months","keyPressedTimes":27,"time":34.1284,"deleteTimes":0}

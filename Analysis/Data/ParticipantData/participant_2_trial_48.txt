@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"a big scratch on the tabletop","inputPhrase":"a big scratch on the tabletop","inputText":"a big scratch on the tabletop","keyPressedTimes":29,"time":35.694599999999994,"deleteTimes":0}

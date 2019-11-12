@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"house with new electrical panel","inputPhrase":"house with new electrical panel","inputText":"house with new electrical panel","keyPressedTimes":31,"time":35.9365,"deleteTimes":0}

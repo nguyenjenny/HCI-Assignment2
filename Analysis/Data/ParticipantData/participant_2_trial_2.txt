@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.269,"targetPhrase":"you must make an appointment","inputPhrase":"you muzt -delete--delete--delete-st makw-delete-e-delete-e am -delete--delete-n alpiunt-delete--delete--delete--delete--delete--delete-plo-delete--delete-pointmenr-delete-t","inputText":"you must make an appointment","keyPressedTimes":60,"time":37.441199999999995,"deleteTimes":16}

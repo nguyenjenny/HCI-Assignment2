@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.269,"targetPhrase":"sprawling subdivisions are bad","inputPhrase":"spraq-delete-wlun-delete--delete-ing subdivisiom-delete- s-delete--delete-ns are bad","inputText":"sprawling subdivisions are bad","keyPressedTimes":42,"time":30.848399999999998,"deleteTimes":6}

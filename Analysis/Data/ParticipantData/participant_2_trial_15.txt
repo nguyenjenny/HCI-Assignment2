@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.269,"targetPhrase":"presidents drive expensive cars","inputPhrase":"presidents drive expensive cars","inputText":"presidents drive expensive cars","keyPressedTimes":31,"time":47.4903,"deleteTimes":0}

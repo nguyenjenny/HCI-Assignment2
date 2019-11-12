@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.269,"targetPhrase":"dolphins leap high out of the water","inputPhrase":"dolphins leapb-delete- high out of the water","inputText":"dolphins leap high out of the water","keyPressedTimes":37,"time":54.8047,"deleteTimes":1}

@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"reading week is just about here","inputPhrase":"reading week is just about here","inputText":"reading week is just about here","keyPressedTimes":31,"time":34.5466,"deleteTimes":0}

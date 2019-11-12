@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.269,"targetPhrase":"i am allergic to bees and peanuts","inputPhrase":"i am a.-delete-llergict-delete- to bes-delete--delete-ees and peanuts","inputText":"i am allergic to bees and peanuts","keyPressedTimes":41,"time":60.27819999999999,"deleteTimes":4}

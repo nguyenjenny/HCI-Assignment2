@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"i skimmed through your proposal","inputPhrase":"i skimmed throk-delete-ugh your proposal","inputText":"i skimmed through your proposal","keyPressedTimes":33,"time":38.474399999999996,"deleteTimes":1}

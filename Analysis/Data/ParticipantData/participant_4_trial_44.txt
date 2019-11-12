@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.269,"targetPhrase":"we must redouble our efforts","inputPhrase":"we must edoub-delete--delete--delete--delete--delete-redouble out-delete-r efforts","inputText":"we must redouble our efforts","keyPressedTimes":40,"time":16.678799999999995,"deleteTimes":6}

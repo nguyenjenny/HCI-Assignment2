@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.269,"targetPhrase":"an inefficient way to heat a house","inputPhrase":"an inefficoen-delete--delete--delete-ient wat-delete-y tp-delete-o keep -delete--delete--delete--delete--delete--delete- heat a hpu-delete--delete-ouse","inputText":"an inefficient way to heat a house","keyPressedTimes":60,"time":29.151,"deleteTimes":13}

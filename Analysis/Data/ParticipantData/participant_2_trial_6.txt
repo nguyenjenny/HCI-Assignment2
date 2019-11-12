@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.269,"targetPhrase":"if at first you do not succeed","inputPhrase":"if a for-delete--delete-irst you di-delete-o nit-delete--delete-ot succeed","inputText":"if a first you do not succeed","keyPressedTimes":39,"time":27.3306,"deleteTimes":5}

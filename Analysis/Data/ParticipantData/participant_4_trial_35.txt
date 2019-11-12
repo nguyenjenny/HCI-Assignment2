@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.269,"targetPhrase":"most judges are very honest","inputPhrase":"most judges are very honest","inputText":"most judges are very honest","keyPressedTimes":27,"time":22.373699999999996,"deleteTimes":0}

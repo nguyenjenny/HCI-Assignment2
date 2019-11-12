@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.269,"targetPhrase":"interesting observation was made","inputPhrase":"interesting observationw-delete- was made","inputText":"interesting observation was made","keyPressedTimes":34,"time":47.91669999999999,"deleteTimes":1}

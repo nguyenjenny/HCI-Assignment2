@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"a rattle snake is very poisonous","inputPhrase":"a rattle w-delete-snake is very ppi-delete--delete-oisonous","inputText":"a rattle snake is very poisonous","keyPressedTimes":38,"time":23.7431,"deleteTimes":3}

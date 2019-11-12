@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.269,"targetPhrase":"the fourth edition was better","inputPhrase":"the furth-delete--delete--delete--delete-out-delete-rth edition wad -delete--delete-s better","inputText":"the fourth edition was better","keyPressedTimes":43,"time":19.598,"deleteTimes":7}

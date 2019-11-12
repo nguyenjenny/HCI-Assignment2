@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.2405,"targetPhrase":"we better investigate this","inputPhrase":"we better investiyq-delete--delete-gq-delete-atw-delete-e thiw-delete-s","inputText":"we better investigate this","keyPressedTimes":36,"time":24.128499999999995,"deleteTimes":5}

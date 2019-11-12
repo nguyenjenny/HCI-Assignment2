@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.2405,"targetPhrase":"well connected with people","inputPhrase":"well connected with peip.-delete--delete--delete-ople","inputText":"well connected with people","keyPressedTimes":32,"time":15.719399999999998,"deleteTimes":3}

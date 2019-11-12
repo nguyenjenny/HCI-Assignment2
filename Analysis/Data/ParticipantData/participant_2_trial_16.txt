@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.269,"targetPhrase":"arguing with the boss is futile","inputPhrase":"arguing with theboss is futile","inputText":"arguing with theboss is futile","keyPressedTimes":30,"time":44.1324,"deleteTimes":0}

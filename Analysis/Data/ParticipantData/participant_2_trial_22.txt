@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.269,"targetPhrase":"taking the train is usually faster","inputPhrase":"taking the train is uss-delete-ually faster","inputText":"taking the train is usually faster","keyPressedTimes":36,"time":54.185599999999994,"deleteTimes":1}

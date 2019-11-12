@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.2405,"targetPhrase":"the location of the crime","inputPhrase":"the locqt-delete--delete-atuin-delete--delete--delete-iom-delete-n of the cri,e-delete--delete-me","inputText":"the location of the crime","keyPressedTimes":41,"time":24.690199999999997,"deleteTimes":8}

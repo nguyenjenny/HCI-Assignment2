@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.269,"targetPhrase":"faster than a speeding bullet","inputPhrase":"fastet -delete--delete-r than a speeding bullet","inputText":"faster than a speeding bullet","keyPressedTimes":33,"time":16.264699999999998,"deleteTimes":2}

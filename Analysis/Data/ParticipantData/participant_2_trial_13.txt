@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.269,"targetPhrase":"valid until the end of the year","inputPhrase":"valif-delete-s-delete-d until the end of the year","inputText":"valid until the end of the year","keyPressedTimes":35,"time":65.969,"deleteTimes":2}

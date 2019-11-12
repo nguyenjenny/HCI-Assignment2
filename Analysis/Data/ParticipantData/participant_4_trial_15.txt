@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"the food at this restaurant","inputPhrase":"the food qt-delete--delete-at this red-delete-stajr-delete--delete-ura g-delete--delete-nt","inputText":"the food at this restaurant","keyPressedTimes":41,"time":27.629899999999996,"deleteTimes":7}

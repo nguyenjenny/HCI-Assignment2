@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"a problem with the engine","inputPhrase":"a problem with the e g-delete--delete-g-delete-ngi -delete-ne","inputText":"a problem with the engine","keyPressedTimes":33,"time":22.894399999999997,"deleteTimes":4}

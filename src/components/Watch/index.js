@@ -141,7 +141,7 @@ class Watch extends React.Component {
         this.setState(prevState => {
           return { time: prevState.time + 1 };
         });
-      }, 1);
+	  }, 1);
       this.setState({ timer });
     }
 
@@ -175,7 +175,7 @@ class Watch extends React.Component {
 	  inputPhrase: this.state.inputPhrase,
 	  inputText: this.state.inputText,
       keyPressedTimes: this.state.keyPressedTimes,
-	  time: this.state.time/1000, //in seconds
+	  time: this.state.time/1000*4.1, //in seconds
 	  deleteTimes: this.state.deleteTimes
     });
 
@@ -249,7 +249,7 @@ class Watch extends React.Component {
           <button onClick={this.saveData}>SAVE</button>
 		  <p><b>Participant ID: {id}</b></p>
 		  <p>{type}  {scale} {trialIndex +1}</p>
-		  {(trialIndex)%4 == 0 &&
+		  {(trialIndex)%3 == 0 &&
 			  <h4>Take a break before starting</h4>
 		  }
 

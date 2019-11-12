@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"prepare for the exam in advance","inputPhrase":"prepare for the exam in advance","inputText":"prepare for the exam in advance","keyPressedTimes":31,"time":35.1985,"deleteTimes":0}

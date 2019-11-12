@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"important for political parties","inputPhrase":"important for politica.-delete-l partirs-delete--delete-i-delete-es","inputText":"important for political parties","keyPressedTimes":39,"time":27.728299999999997,"deleteTimes":4}

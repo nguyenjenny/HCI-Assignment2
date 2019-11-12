@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.2405,"targetPhrase":"the music is better than it sounds","inputPhrase":"rhe-delete--delete--delete-the musiv-delete-c is better tham -delete--delete-n t -delete--delete-it sounds","inputText":"the music is better than it sounds","keyPressedTimes":50,"time":33.7676,"deleteTimes":8}

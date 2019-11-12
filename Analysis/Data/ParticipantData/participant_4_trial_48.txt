@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.269,"targetPhrase":"never too rich and never too thin","inputPhrase":"never too rich a d-delete--delete-nd never too thin","inputText":"never too rich and never too thin","keyPressedTimes":37,"time":16.514799999999997,"deleteTimes":2}

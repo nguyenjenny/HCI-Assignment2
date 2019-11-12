@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.269,"targetPhrase":"listen to five hours of opera","inputPhrase":"listen tp-delete-o five hours of opeta-delete--delete-ra","inputText":"listen to five hours of opera","keyPressedTimes":35,"time":18.695999999999998,"deleteTimes":3}

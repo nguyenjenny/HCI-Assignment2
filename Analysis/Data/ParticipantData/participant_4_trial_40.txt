@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.269,"targetPhrase":"this is a non profit organization","inputPhrase":"this is a non profi -delete-t orgw-delete-anization","inputText":"this is a non profit organization","keyPressedTimes":37,"time":18.8969,"deleteTimes":2}

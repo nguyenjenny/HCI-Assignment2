@@ -4,11 +4,18 @@ We have provided comments in the code for you to better understand it. Here we p
 
 Read the first two sections in the table of contents to understand how to run the code on laptops/desktops/mobiles. The rest sections provide general guidelines about the react app.
 
+
 ## Table of Contents
+- [Special Instructions](#special-instructions)
 - [Folder Structure](#folder-structure)
 - [How to run the project](#run-project)
 - [Further Questions](#further-questions)
 
+## Special Instructions
+
+To start the trail run enter “test” as participant ID.
+To run the experiment enter numbers 1, 2, 3 , 4 as participant ID.
+ 
 ## Folder Structure
 The project structure is as follows:
 

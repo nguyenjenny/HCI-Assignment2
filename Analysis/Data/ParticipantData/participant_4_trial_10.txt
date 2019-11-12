@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"the hopes of a new organization","inputPhrase":"the hopes of a new organization","inputText":"the hopes of a new organization","keyPressedTimes":31,"time":35.7766,"deleteTimes":0}

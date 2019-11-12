@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.269,"targetPhrase":"careless driving results in a fine","inputPhrase":"caee-delete--delete-reless driving results im -delete--delete-n a fine","inputText":"careless driving results in a fine","keyPressedTimes":42,"time":18.097399999999997,"deleteTimes":4}

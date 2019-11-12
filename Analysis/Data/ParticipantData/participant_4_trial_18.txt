@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"superman never wore a mask","inputPhrase":"superman never wore a  mask","inputText":"superman never wore a  mask","keyPressedTimes":27,"time":20.3524,"deleteTimes":0}

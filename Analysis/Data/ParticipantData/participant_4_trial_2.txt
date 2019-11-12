@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"if at first you do not succeed","inputPhrase":"if at first you do not succeed","inputText":"if at first you do not succeed","keyPressedTimes":30,"time":36.9205,"deleteTimes":0}

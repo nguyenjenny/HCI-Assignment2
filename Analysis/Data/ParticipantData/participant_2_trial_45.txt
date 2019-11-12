@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"if you were not so stupid","inputPhrase":"if you were not stupid-delete--delete--delete--delete--delete-o stupid","inputText":"if you were not so stupid","keyPressedTimes":35,"time":45.2804,"deleteTimes":5}

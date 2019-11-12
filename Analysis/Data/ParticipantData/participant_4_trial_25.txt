@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.269,"targetPhrase":"universally understood to be wrong","inputPhrase":"universally understood to be wrong","inputText":"universally understood to be wrong","keyPressedTimes":34,"time":35.1206,"deleteTimes":0}

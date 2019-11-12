@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"sprawling subdivisions are bad","inputPhrase":"sprawling subdivisions are bad","inputText":"sprawling subdivisions are bad","keyPressedTimes":30,"time":34.722899999999996,"deleteTimes":0}

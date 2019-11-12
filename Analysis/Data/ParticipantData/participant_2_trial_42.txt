@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"companies announce a merger","inputPhrase":"companis-delete-es announce a merger","inputText":"companies announce a merger","keyPressedTimes":29,"time":42.00449999999999,"deleteTimes":1}

@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"a little encouragement is needed","inputPhrase":"al-delete- little enck-delete-ouragement is needed","inputText":"a little encouragement is needed","keyPressedTimes":36,"time":49.060599999999994,"deleteTimes":2}

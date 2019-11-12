@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.269,"targetPhrase":"sent this by registered mail","inputPhrase":"sent this by registered mail","inputText":"sent this by registered mail","keyPressedTimes":28,"time":27.0764,"deleteTimes":0}

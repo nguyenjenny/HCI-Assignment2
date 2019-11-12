@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.269,"targetPhrase":"raindrops keep falling on my head","inputPhrase":"ran-delete-indrops keep falling on mt -delete--delete-y nraf-delete--delete--delete--delete-head","inputText":"raindrops keep falling on my head","keyPressedTimes":47,"time":23.177299999999995,"deleteTimes":7}

@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.269,"targetPhrase":"the picket line gives me the chills","inputPhrase":"the pickw-delete-et line gives me the chills","inputText":"the picket line gives me the chills","keyPressedTimes":37,"time":56.3709,"deleteTimes":1}

@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"in sharp contrast to your words","inputPhrase":"in sharp contrast to your words","inputText":"in sharp contrast to your words","keyPressedTimes":31,"time":34.9361,"deleteTimes":0}

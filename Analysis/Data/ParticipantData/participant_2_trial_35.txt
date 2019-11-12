@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.2405,"targetPhrase":"the stock exchange dipped","inputPhrase":"tje-delete--delete-he stock ev-delete-xchqn-delete- -delete--delete-qn-delete--delete-q-delete-angw-delete-e-delete-e dippef-delete-d","inputText":"the stock exchange dipped","keyPressedTimes":49,"time":37.625699999999995,"deleteTimes":12}

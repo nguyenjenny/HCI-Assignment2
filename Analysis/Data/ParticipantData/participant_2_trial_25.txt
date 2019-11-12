@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.2405,"targetPhrase":"sharp cheese keeps the mind sharp","inputPhrase":"sg-delete-hae-delete-rp cheese kwe-delete--delete-eeps rhe-delete--delete--delete-the mins-delete-d sharp","inputText":"sharp cheese keeps the mind sharp","keyPressedTimes":49,"time":41.319799999999994,"deleteTimes":8}

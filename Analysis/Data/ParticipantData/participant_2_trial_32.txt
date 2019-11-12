@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.2405,"targetPhrase":"the cream rises to the top","inputPhrase":"the cream risea-delete-s to tje -delete--delete--delete-he top","inputText":"the cream rises to the top","keyPressedTimes":34,"time":26.986199999999997,"deleteTimes":4}

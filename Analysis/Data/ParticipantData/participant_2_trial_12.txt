@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.269,"targetPhrase":"i took the rover from the shop","inputPhrase":"i toik-delete--delete-ok the river-delete--delete--delete--delete-k-delete-over fe-delete--delete-fe-delete-rom the sg-delete-hop","inputText":"i took the rover from the shop","keyPressedTimes":52,"time":37.0025,"deleteTimes":11}

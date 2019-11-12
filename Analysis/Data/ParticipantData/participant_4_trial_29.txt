@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.269,"targetPhrase":"do not feel too bad about it","inputPhrase":"do not feel bad-delete--delete--delete--delete-  -delete-too bad about it","inputText":"do not feel too bad about it","keyPressedTimes":38,"time":36.9369,"deleteTimes":5}

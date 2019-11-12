@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"a yard is almost as long as a meter","inputPhrase":"a yard is almost as long as a  e-delete-meter","inputText":"a yard is almost as long as a  meter","keyPressedTimes":38,"time":20.5041,"deleteTimes":1}

@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"the store will close at ten","inputPhrase":"the store will c.o-delete--delete-lose at the-delete--delete-en","inputText":"the store will close at ten","keyPressedTimes":35,"time":18.085099999999997,"deleteTimes":4}

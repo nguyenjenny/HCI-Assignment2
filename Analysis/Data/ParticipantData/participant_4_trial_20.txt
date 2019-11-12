@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"what goes up must come down","inputPhrase":"what goes up mudt-delete--delete-sr-delete-t come doe-delete-o-delete-wn","inputText":"what goes up must come down","keyPressedTimes":37,"time":25.584,"deleteTimes":5}

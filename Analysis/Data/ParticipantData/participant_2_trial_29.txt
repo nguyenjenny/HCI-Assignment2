@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.2405,"targetPhrase":"quick there is someone knocking","inputPhrase":"qui m -delete--delete--delete-ck tne-delete--delete-here-delete-e is someo e-delete--delete-nw-delete-e kbo-delete--delete-nocku-delete--delete-king","inputText":"quick there is someone knocking","keyPressedTimes":57,"time":35.354299999999995,"deleteTimes":13}

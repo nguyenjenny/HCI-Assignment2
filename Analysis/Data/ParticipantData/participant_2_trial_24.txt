@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.269,"targetPhrase":"the chancellor was very boring","inputPhrase":"the chancellor was very boring","inputText":"the chancellor was very boring","keyPressedTimes":30,"time":42.9188,"deleteTimes":0}

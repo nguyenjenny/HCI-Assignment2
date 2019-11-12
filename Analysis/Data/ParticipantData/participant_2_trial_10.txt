@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.269,"targetPhrase":"tell a lie and your nose will grow","inputPhrase":"tell a lie and your nise -delete--delete--delete--delete-ose will grow","inputText":"tell a lie and your nose will grow","keyPressedTimes":42,"time":23.144499999999997,"deleteTimes":4}

@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.269,"targetPhrase":"fine but only in moderation","inputPhrase":"fine but i-delete-only in moderation","inputText":"fine but only in moderation","keyPressedTimes":29,"time":31.192799999999995,"deleteTimes":1}

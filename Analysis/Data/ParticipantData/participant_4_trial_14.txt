@@ -1,0 +1,1 @@
+{"id":"4","type":"normal","scale":0.2405,"targetPhrase":"double double toil and trouble","inputPhrase":"double doun-delete-ble toil and troub.e-delete--delete-le","inputText":"double double toil and trouble","keyPressedTimes":36,"time":25.739799999999995,"deleteTimes":3}

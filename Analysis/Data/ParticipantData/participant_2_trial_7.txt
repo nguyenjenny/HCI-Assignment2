@@ -1,0 +1,1 @@
+{"id":"2","type":"normal","scale":0.269,"targetPhrase":"my preferred treat is chocolate","inputPhrase":"my prefwr-delete--delete--delete-fe -delete-red-delete--delete-ded-delete--delete--delete-red trear-delete-t is chocolatw-delete-e","inputText":"my preferred treat is chocolate","keyPressedTimes":53,"time":35.1493,"deleteTimes":11}

@@ -1,0 +1,1 @@
+{"id":"2","type":"zoom","scale":0.2405,"targetPhrase":"a security force of eight thousand","inputPhrase":"a security force of eight thoua-delete-sand","inputText":"a security force of eight thousand","keyPressedTimes":36,"time":46.12499999999999,"deleteTimes":1}

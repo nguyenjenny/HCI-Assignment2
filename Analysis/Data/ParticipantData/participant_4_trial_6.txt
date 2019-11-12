@@ -1,0 +1,1 @@
+{"id":"4","type":"zoom","scale":0.2405,"targetPhrase":"what to do when the oil runs dry","inputPhrase":"what to do when the oil dr-delete--delete-runs dry","inputText":"what to do when the oil runs dry","keyPressedTimes":36,"time":44.05449999999999,"deleteTimes":2}
