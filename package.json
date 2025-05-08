@@ -7,7 +7,7 @@
     "react-dev-utils": "^11.0.4",
     "react-dom": "^16.5.1",
     "react-meta-tags": "^0.7.1",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "^2.0.4"
   },
   "scripts": {
